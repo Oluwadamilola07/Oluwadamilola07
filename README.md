@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am an aspiring Data Scientist and Computer Science student at Kibo School. I am passionate about building data tools and eager to use my Python and data analysis skills to make an impact.
+
 
 <!--
 **Oluwadamilola07/Oluwadamilola07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
